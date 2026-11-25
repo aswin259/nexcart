@@ -1,0 +1,6 @@
+{
+  "name": "ShopKart",
+  "description": "ShopKart — Full-stack Flipkart-inspired e-commerce marketplace with categories, filters, cart, checkout, order tracking, seller dashboard, and admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
